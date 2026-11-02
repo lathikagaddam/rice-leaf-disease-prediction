@@ -1,0 +1,6 @@
+fastapi
+tensorflow
+numpy
+PIL
+IO
+pathlib
